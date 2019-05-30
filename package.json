@@ -1,7 +1,7 @@
 {
   "name": "react-form",
   "version": "0.1.0",
-  "homepage": "https://JoanLazo.github.io/react-form/",
+  "homepage": "https://joanlazo.github.io/react-form/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
